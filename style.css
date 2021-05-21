@@ -1,0 +1,165 @@
+#announcement {
+    font-size: 40px;
+}
+
+
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+body {
+    background-color: #B7E0E1;
+}
+
+iframe {
+    text-align: center;
+}
+
+.infra_1 {
+    background-color: aliceblue;
+}
+
+p {
+    font-size: 20px;
+}
+
+h2 {
+    text-align: center;
+    color: crimson;
+    text-shadow: 3px 4px gainsboro;
+}
+
+#achievement_1 {
+    background-color: white;
+
+}
+
+.achievments {
+    background-color: aliceblue;
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+
+}
+
+#achievement_1 img {
+    border: solid;
+    border-width: medium;
+    border-color: cornflowerblue;
+    margin-bottom: 10px;
+}
+
+
+.achiev_1 {
+    margin-left: 10px;
+}
+
+#achievement_2 img {
+    border: solid;
+    border-width: medium;
+    border-color: cornflowerblue;
+    margin-bottom: 10px;
+}
+
+#achievement_3 img {
+    border: solid;
+    border-width: medium;
+    border-color: cornflowerblue;
+    margin-bottom: 10px;
+}
+
+#achievement_4 img {
+    border: solid;
+    border-width: medium;
+    border-color: cornflowerblue;
+    margin-bottom: 30px;
+}
+
+p {
+    text-decoration: none;
+
+}
+
+#schoolvideo {
+    width: 100%;
+}
+
+#whatsnew img {
+    border-radius: 20px;
+    border-width: 10px;
+    border-color: darkmagenta;
+}
+
+#whatsnew h3 {
+    text-decoration: none;
+}
+
+.teacher_1,
+.teacher_2,
+.teacher_3,
+.teacher_4 {
+    border-radius: 35px;
+    border-width: 5px;
+    border-color: darkmagenta;
+}
+
+.menu {
+    position: fixed;
+    z-index: 999;
+}
+
+.img {
+    width: 300px;
+    border: 2px solid;
+    border-color: greenyellow;
+
+}
+
+.img_modal {
+   width:20%;
+    border: 2px solid;
+    border-color: chocolate;
+    margin-left: 450px;
+}
+
+
+.modal-content {
+    margin-top: 100px;
+
+}
+
+.modal-body {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.modal_p1 {
+    margin-top: 10px;
+}
+#kunalkhemuimg{
+     width:20%;
+    border: 2px solid;
+    border-color: chocolate;
+    margin-left:10px;
+}
+#kulpreetyadavimg{
+     width:20%;
+    border: 2px solid;
+    border-color: chocolate;
+    margin-left:10px;
+}
+#footer iframe{
+    width:100%;
+}
